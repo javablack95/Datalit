@@ -1,1 +1,1 @@
-# Datalit
+# Kaggle house price prediction
